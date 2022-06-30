@@ -1,0 +1,27 @@
+name: OnePieceUHC
+version: ALPHA 0.0.4
+main: fr.v1ct0r.onepiece_uhc.OnePieceUHC
+author: v1ct0r
+description: Plugin inspire du LG UHC avec des roles correspondant a des personnages tires de One Piece
+commands:
+  host:
+    description: Commande pour récupérer l'item de configuration
+  say:
+    description: Commande pour parler en tant que host
+  role:
+    description: Commande pour connaître son rôle
+  roles:
+    description: Commande pour connaître les rôles de la partie
+  claim:
+    description: Récupérer les items de son rôle
+  tir:
+    description: Commande du tir final du chasseur
+  sauver:
+    description: Commande de sauvetage de la sorcière
+  proteger:
+    description: Commande de protection du salvateur
+  voir:
+    description: Commande de voyance de la voyante
+
+
+

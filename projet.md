@@ -60,6 +60,7 @@
 - Carrot -> Solo ou Mugiwara
 - Law -> Solo ou Mugiwara
 - Bartholomeo -> Solo ou Mugiwara
+  **Pouvoir:** Peut faire des murs incassables
 - Kuma -> Solo ou Marine
 - Ace -> ne peut pas tuer Barbe Blanche / Luffy, peut gagner avec un des deux
 

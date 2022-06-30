@@ -6,7 +6,7 @@
 
     <groupId>fr.v1ct0r.onepieceUHC</groupId>
     <artifactId>onepieceUHC</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>APLHA-0.0.1</version>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>

@@ -1,0 +1,28 @@
+#CONFIGURATION FILE FOR THE PLUGIN, IF YOU HAVE ANY QUESTIONS ASK ME AT: v1ct0rl@protonmail.com
+
+# PVP TIMER IN MINS
+pvp_time: 21
+
+# PVP TIMER IN SECONDS
+pvp_time_s: 1260
+
+# BORDER TIMER IN MINS
+border_time: 90
+
+# BORDER TIMER IN SECONDS
+border_time_s: 5400
+
+# BORDER SIZE
+border_size: 1000
+
+# BORDER SPEED
+border_speed: 1.0
+
+# ROLE TIMER IN MINS
+role_time: 1
+
+# ROLE TIMER IN SECONDS
+role_time_s: 60
+
+# DAY / NIGHT CYCLE IN MINS
+dn_cycle: 5
